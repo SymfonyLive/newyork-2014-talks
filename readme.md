@@ -1,7 +1,7 @@
 # [Symfony Live - New York 2014](http://newyork2014.live.symfony.com/) talks
 
 - All talks are in **english**.
-- There is not (yet) *joind.in* link for these event.
+- Comment and rate talks on [joind.in](http://joind.in/event/view/2640)
 
 ## Keynote
 
